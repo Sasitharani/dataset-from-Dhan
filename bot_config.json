@@ -1,0 +1,9 @@
+{
+  "pairs": [
+    "KC-BTC_USDT"
+  ],
+  "interval": "15m",
+  "lic_threshold": 150,
+  "check_interval": 60,
+  "leverage": 5
+}
