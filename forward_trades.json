@@ -1,0 +1,74 @@
+[
+  {
+    "time": "09-07-2026 11:45:00",
+    "signal": "SHORT",
+    "entry": 0.07274,
+    "exit": 0.07263,
+    "pnl_usd": 0.010999999999999899,
+    "pnl_inr": 0.9129999999999916,
+    "status": "Executed"
+  },
+  {
+    "time": "08-07-2026 21:00:00",
+    "signal": "SHORT",
+    "entry": 0.0714,
+    "exit": 0.0714,
+    "pnl_usd": 0.0,
+    "pnl_inr": 0.0,
+    "status": "Executed"
+  },
+  {
+    "time": "08-07-2026 17:00:00",
+    "signal": "SHORT",
+    "entry": 0.07156,
+    "exit": 0.07164,
+    "pnl_usd": -0.007999999999999674,
+    "pnl_inr": -0.663999999999973,
+    "status": "Executed"
+  },
+  {
+    "time": "09-07-2026 14:30:00",
+    "signal": "LONG",
+    "entry": 0.07293,
+    "exit": 0.07286,
+    "pnl_usd": -0.007000000000000062,
+    "pnl_inr": -0.5810000000000051,
+    "status": "Executed"
+  },
+  {
+    "time": "09-07-2026 11:45:00",
+    "signal": "SHORT",
+    "entry": 0.07274,
+    "exit": 0.07263,
+    "pnl_usd": 0.010999999999999899,
+    "pnl_inr": 0.9129999999999916,
+    "status": "Executed"
+  },
+  {
+    "time": "08-07-2026 21:30:00",
+    "signal": "SHORT",
+    "entry": 0.07168,
+    "exit": 0.07182,
+    "pnl_usd": -0.014000000000000123,
+    "pnl_inr": -1.1620000000000101,
+    "status": "Executed"
+  },
+  {
+    "time": "08-07-2026 19:15:00",
+    "signal": "LONG",
+    "entry": 0.07183,
+    "exit": 0.07216,
+    "pnl_usd": 0.032999999999999696,
+    "pnl_inr": 2.738999999999975,
+    "status": "Executed"
+  },
+  {
+    "time": "08-07-2026 17:00:00",
+    "signal": "SHORT",
+    "entry": 0.07156,
+    "exit": 0.07164,
+    "pnl_usd": -0.007999999999999674,
+    "pnl_inr": -0.663999999999973,
+    "status": "Executed"
+  }
+]
